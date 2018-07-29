@@ -103,3 +103,5 @@ ENV/
 #Mac OS
 /.DS_Store
 .DS_Store
+
+.pytest_cache
